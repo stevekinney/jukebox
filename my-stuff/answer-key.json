@@ -1,0 +1,489 @@
+{
+  "artists": [
+    {
+      "name": "Rolling Stones",
+      "id": 0,
+      "albums": [
+        {
+          "title": "Exile on Main Street",
+          "id": 3,
+          "artist": 0,
+          "songs": [
+            {
+              "title": "Rocks Off",
+              "id": 48,
+              "album": 3
+            },
+            {
+              "title": "Rip This Joint",
+              "id": 49,
+              "album": 3
+            },
+            {
+              "title": "Shake Your Hips",
+              "id": 50,
+              "album": 3
+            },
+            {
+              "title": "Casino Boogie",
+              "id": 51,
+              "album": 3
+            },
+            {
+              "title": "Tumbling Dice",
+              "id": 52,
+              "album": 3
+            },
+            {
+              "title": "Sweet Virginia",
+              "id": 53,
+              "album": 3
+            },
+            {
+              "title": "Torn and Frayed",
+              "id": 54,
+              "album": 3
+            },
+            {
+              "title": "Sweet Black Angel",
+              "id": 55,
+              "album": 3
+            },
+            {
+              "title": "Loving Cup",
+              "id": 56,
+              "album": 3
+            },
+            {
+              "title": "Happy",
+              "id": 57,
+              "album": 3
+            },
+            {
+              "title": "Turd on the Run",
+              "id": 58,
+              "album": 3
+            },
+            {
+              "title": "Ventilator Blues",
+              "id": 59,
+              "album": 3
+            },
+            {
+              "title": "I Just Want to See His Face",
+              "id": 60,
+              "album": 3
+            },
+            {
+              "title": "Let It Loose",
+              "id": 61,
+              "album": 3
+            },
+            {
+              "title": "All Down the Line",
+              "id": 62,
+              "album": 3
+            },
+            {
+              "title": "Stop Breaking Down",
+              "id": 63,
+              "album": 3
+            },
+            {
+              "title": "Shine a Light",
+              "id": 64,
+              "album": 3
+            },
+            {
+              "title": "Soul Survivor",
+              "id": 65,
+              "album": 3
+            }
+          ]
+        },
+        {
+          "title": "Beggars Banquet",
+          "id": 4,
+          "artist": 0,
+          "songs": [
+            {
+              "title": "Sympathy for the Devil",
+              "id": 38,
+              "album": 4
+            },
+            {
+              "title": "No Expectations",
+              "id": 39,
+              "album": 4
+            },
+            {
+              "title": "Dear Doctor",
+              "id": 40,
+              "album": 4
+            },
+            {
+              "title": "Parachute Woman",
+              "id": 41,
+              "album": 4
+            },
+            {
+              "title": "Jigsaw Puzzle",
+              "id": 42,
+              "album": 4
+            },
+            {
+              "title": "Street Fighting Man",
+              "id": 43,
+              "album": 4
+            },
+            {
+              "title": "Prodigal Son",
+              "id": 44,
+              "album": 4
+            },
+            {
+              "title": "Stray Cat Blues",
+              "id": 45,
+              "album": 4
+            },
+            {
+              "title": "Factory Girl",
+              "id": 46,
+              "album": 4
+            },
+            {
+              "title": "Salt of the Earth",
+              "id": 47,
+              "album": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Beatles",
+      "id": 1,
+      "albums": [
+        {
+          "title": "Rubber Soul",
+          "id": 5,
+          "artist": 1,
+          "songs": [
+            {
+              "title": "Drive My Car",
+              "id": 80,
+              "album": 5
+            },
+            {
+              "title": "Norwegian Wood (This Bird Has Flown)",
+              "id": 81,
+              "album": 5
+            },
+            {
+              "title": "You Won't See Me",
+              "id": 82,
+              "album": 5
+            },
+            {
+              "title": "Nowhere Man",
+              "id": 83,
+              "album": 5
+            },
+            {
+              "title": "Think for Yourself",
+              "id": 84,
+              "album": 5
+            },
+            {
+              "title": "The Word",
+              "id": 85,
+              "album": 5
+            },
+            {
+              "title": "Michelle",
+              "id": 86,
+              "album": 5
+            },
+            {
+              "title": "What Goes On",
+              "id": 87,
+              "album": 5
+            },
+            {
+              "title": "Girl",
+              "id": 88,
+              "album": 5
+            },
+            {
+              "title": "I'm Looking Through You",
+              "id": 89,
+              "album": 5
+            },
+            {
+              "title": "In My Life",
+              "id": 90,
+              "album": 5
+            },
+            {
+              "title": "Wait",
+              "id": 91,
+              "album": 5
+            },
+            {
+              "title": "If I Needed Someone",
+              "id": 92,
+              "album": 5
+            },
+            {
+              "title": "Run for Your Life",
+              "id": 93,
+              "album": 5
+            }
+          ]
+        },
+        {
+          "title": "Revolver",
+          "id": 6,
+          "artist": 1,
+          "songs": [
+            {
+              "title": "Taxman",
+              "id": 66,
+              "album": 6
+            },
+            {
+              "title": "Eleanor Rigby",
+              "id": 67,
+              "album": 6
+            },
+            {
+              "title": "I'm Only Sleeping",
+              "id": 68,
+              "album": 6
+            },
+            {
+              "title": "Love You To",
+              "id": 69,
+              "album": 6
+            },
+            {
+              "title": "Here, There and Everywhere",
+              "id": 70,
+              "album": 6
+            },
+            {
+              "title": "Yellow Submarine",
+              "id": 71,
+              "album": 6
+            },
+            {
+              "title": "She Said She Said",
+              "id": 72,
+              "album": 6
+            },
+            {
+              "title": "Good Day Sunshine",
+              "id": 73,
+              "album": 6
+            },
+            {
+              "title": "And Your Bird Can Sing",
+              "id": 74,
+              "album": 6
+            },
+            {
+              "title": "For No One",
+              "id": 75,
+              "album": 6
+            },
+            {
+              "title": "Doctor Robert",
+              "id": 76,
+              "album": 6
+            },
+            {
+              "title": "I Want to Tell You",
+              "id": 77,
+              "album": 6
+            },
+            {
+              "title": "Got to Get You into My Life",
+              "id": 78,
+              "album": 6
+            },
+            {
+              "title": "Tomorrow Never Knows",
+              "id": 79,
+              "album": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Jimi Hendrix Experience",
+      "id": 2,
+      "albums": [
+        {
+          "title": "Axis: Bold as Love",
+          "id": 7,
+          "artist": 2,
+          "songs": [
+            {
+              "title": "EXP",
+              "id": 9,
+              "album": 7
+            },
+            {
+              "title": "Up from the Skies",
+              "id": 10,
+              "album": 7
+            },
+            {
+              "title": "Spanish Castle Magic",
+              "id": 11,
+              "album": 7
+            },
+            {
+              "title": "Wait Until Tomorrow",
+              "id": 12,
+              "album": 7
+            },
+            {
+              "title": "Ain't No Telling",
+              "id": 13,
+              "album": 7
+            },
+            {
+              "title": "Little Wing",
+              "id": 14,
+              "album": 7
+            },
+            {
+              "title": "If 6 Was 9",
+              "id": 15,
+              "album": 7
+            },
+            {
+              "title": "You Got Me Floatin'",
+              "id": 16,
+              "album": 7
+            },
+            {
+              "title": "Castles Made of Sand",
+              "id": 17,
+              "album": 7
+            },
+            {
+              "title": "She's So Fine",
+              "id": 18,
+              "album": 7
+            },
+            {
+              "title": "One Rainy Wish",
+              "id": 19,
+              "album": 7
+            },
+            {
+              "title": "Little Miss Lover",
+              "id": 20,
+              "album": 7
+            },
+            {
+              "title": "Bold as Love",
+              "id": 21,
+              "album": 7
+            }
+          ]
+        },
+        {
+          "title": "Electric Ladyland",
+          "id": 8,
+          "artist": 2,
+          "songs": [
+            {
+              "title": "And the Gods Made Love",
+              "id": 22,
+              "album": 8
+            },
+            {
+              "title": "Have You Ever Been (To Electric Ladyland)",
+              "id": 23,
+              "album": 8
+            },
+            {
+              "title": "Crosstown Traffic",
+              "id": 24,
+              "album": 8
+            },
+            {
+              "title": "Voodoo Chile",
+              "id": 25,
+              "album": 8
+            },
+            {
+              "title": "Little Miss Strange",
+              "id": 26,
+              "album": 8
+            },
+            {
+              "title": "Long Hot Summer Night",
+              "id": 27,
+              "album": 8
+            },
+            {
+              "title": "Come On (Part I)",
+              "id": 28,
+              "album": 8
+            },
+            {
+              "title": "Gypsy Eyes",
+              "id": 29,
+              "album": 8
+            },
+            {
+              "title": "Burning of the Midnight Lamp",
+              "id": 30,
+              "album": 8
+            },
+            {
+              "title": "Rainy Day, Dream Away",
+              "id": 31,
+              "album": 8
+            },
+            {
+              "title": "1983... (A Merman I Should Turn to Be)",
+              "id": 32,
+              "album": 8
+            },
+            {
+              "title": "Moon, Turn the Tides...Gently Gently Away",
+              "id": 33,
+              "album": 8
+            },
+            {
+              "title": "Still Raining, Still Dreaming",
+              "id": 34,
+              "album": 8
+            },
+            {
+              "title": "House Burning Down",
+              "id": 35,
+              "album": 8
+            },
+            {
+              "title": "All Along the Watchtower",
+              "id": 36,
+              "album": 8
+            },
+            {
+              "title": "Voodoo Child (Slight Return)",
+              "id": 37,
+              "album": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
