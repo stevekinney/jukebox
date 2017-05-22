@@ -1,0 +1,22 @@
+{
+  "name": "jukebox",
+  "version": "1.0.0",
+  "description": "It's time to have some fun with asynchronous JavaScript, am I right?",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "main": "server.js",
+  "author": "Steve Kinney",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.4.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.5.1",
+    "eslint": "^3.19.0",
+    "jest": "^20.0.3"
+  }
+}
