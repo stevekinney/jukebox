@@ -5,7 +5,7 @@ I'm going to let you into a few secrets about building modern web applications:
 1. Asynchronous programming is kind of tricky. Anyone who tells you otherwise is a liar and should _not_ be trusted. It's super important and makes for way better user experiences—but, yea—it's hard.
 2. Sometimes we don't always get the APIs or database schemas we want, but we have to make due.
 
-This is a challenge to help train your asynchronous muscles. You're not going to like me by the end of this, but this is based on stuff that I've—unfortunately—had to deal with more times than I would like. (And yes, it's a bit contrived and intentionslly so. Just go with it.)
+This is a challenge to help train your asynchronous muscles. You're not going to like me by the end of this, but this is based on stuff that I've—unfortunately—had to deal with more times than I would like. (And yes, it's a bit contrived and intentionally so. Just go with it.)
 
 Put on your imagination hats.
 
