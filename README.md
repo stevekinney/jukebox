@@ -70,3 +70,7 @@ Database.findAlbum(6).then(artist => console.log(artist));
 Oh, no! Look at all of those songs! And there are even more artists! This technique isn't going to scale is it? It's your job to figure out a clever solution. You can take a look at `./my-stuff/answer-key.json` to get a sense of what the final data structure is supposed to look like.
 
 Are you up to the challenge?
+
+## Your Mission
+
+There is one big honking test that you need to get passing. That said, you can write your own and tackle this anyway you choose, but your job is to get that test passing.
