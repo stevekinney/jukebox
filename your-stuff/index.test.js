@@ -3,7 +3,10 @@ import getDataForView from './';
 
 describe('getDataForView', () => {
   it('should get the all of the data in a nested object', () => {
-    expect(getDataForView()).toEqual(answerKey);
+    expect.assertions(1);
+    return getDataForView().then(data => {
+      expect(data).toEqual(answerKey);
+    });
   });
 });
 
